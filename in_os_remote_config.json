@@ -11,7 +11,7 @@
   "vibration_assessment_ios": "true",
   "camera_assessment_ios": "true",
   "torch_assessment_ios": "true",
-  "nfc_assessment_ios": "true",
+  "nfc_assessment_ios": "false",
   "touchscreen_assessment_ios": "true",
   "multitouch_assessment_ios": "true",
   "cellular_assessment_ios": "true",
@@ -22,7 +22,7 @@
   "bluetooth_assessment_ios": "true",
   "gps_assessment_ios": "true",
   "compass_assessment_ios": "true",
-  "home_button_assessment_ios": "true",
+  "home_button_assessment_ios": "false",
   "main_speaker_assessment_ios": "true",
   "ear_speaker_assessment_ios": "true",
   "proximity_assessment_ios": "true",
@@ -30,7 +30,7 @@
   "rotation_assessment_ios": "true",
   "microphone_assessment_ios": "true",
   "connector_assessment_ios": "true",
-  "wireless_charging_assessment_ios": "true",
+  "wireless_charging_assessment_ios": "false",
   "is_maintenance_ios": "false",
   "force_update_ios": "1.0.0"
 }
